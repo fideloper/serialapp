@@ -1,5 +1,11 @@
 <?php
 
+// like, whatever, man
+
+$whatever = function(    $so_many_spaces   ) {
+    echo ':troll:';
+};
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
